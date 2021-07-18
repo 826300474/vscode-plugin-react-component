@@ -3,7 +3,7 @@
 	"displayName": "react-component",
 	"description": "自动创建react组件所需要的文件目录",
 	"publisher": "826300474",
-	"version": "0.0.3",
+	"version": "0.0.6",
 	"engines": {
 		"vscode": "^1.58.0"
 	},
