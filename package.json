@@ -48,6 +48,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/826300474/vscode-plugin-react-component.git"
+		"url": "https://github.com/826300474/vscode-plugin-react-component"
 	}
 }
